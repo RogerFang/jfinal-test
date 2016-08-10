@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://127.0.0.1/jfinal_test?characterEncoding=utf8
+user = root
+password = root
+devMode = true

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfinal-test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="roger-jfinal-test.war">
+      <element id="artifact" artifact-name="jfinal-test:war exploded" />
+    </root>
+  </artifact>
+</component>
